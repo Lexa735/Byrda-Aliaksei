@@ -1,0 +1,52 @@
+H1 {
+	color:orange;
+	text-align:right;
+}
+p.sp:first-letter{
+		color:red;
+		font-size:25pt;
+		font-weight:bold;
+	}
+.span2 {
+		color:white;
+		font-style:italic;
+		background:green;
+	}
+ul>li {
+	font-weight:bold;
+}
+p.p {
+	color:orange;
+	font-size:22pt;
+	font-weight:bold;
+	margin-bottom:0;
+	padding-bottom:0;
+}
+table,td {
+	border: 2px solid black;
+	border-collapse:collapse;
+	width:300px;
+	margin-left:40px;
+	margin-top:20px;
+}
+td.td {
+	background-color:green;
+	color:white;
+	text-align:center;
+}
+td.na {
+	color:orange;
+}
+ol {
+	color:red;
+}
+ol.gr {
+	color:green;
+}
+ol.se {
+	color:gray;
+}
+tr.td>td {
+	font-weight:bold;
+	text-align:center;
+}
